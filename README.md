@@ -1,0 +1,2 @@
+# intdev-theme
+Wordpress theme
